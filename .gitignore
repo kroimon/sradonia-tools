@@ -1,0 +1,7 @@
+# Binaries
+/target
+
+# Eclipse stuff
+/.settings
+/.classpath
+/.project
